@@ -1,5 +1,5 @@
 # sistema_farmacia
-n software de gestión de farmacia se desarrolla para simplificar y automatizar procesos:
+Software de gestión de farmacia se desarrolla para simplificar y automatizar procesos:
 
 - Listar todos los medicamentos disponibles.
 - Agregar, actualizar y eliminar medicamentos de la base de datos.
