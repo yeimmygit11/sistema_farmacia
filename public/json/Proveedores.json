@@ -1,0 +1,75 @@
+[{
+    "_id": 1, 
+    "nombre_proveedor": "Fresenius Kabi",
+    "Nit": 1678045,
+    "Direccion": "CL 99 10 - 19",
+    "Persona_encargada": "Paula Zuluaga",
+    "Numero_contacto": 2567895,
+    "correo":"fresenius@gmail.com" ,
+    "ciudad" : "Bogotá D.C., Distrito Capital Colombia"
+},
+{
+    "_id": 2, 
+    "nombre_proveedor": "SUMPHARMA S.A",
+    "Nit": 785674,
+    "Direccion": "Cr 71C 53A - 17",
+    "Persona_encargada": "Yeimmy Morales",
+    "Numero_contacto": 1156785,
+    "correo": "sumpharma@gamil.com" , 
+    "ciudad": "Bogotá D.C., Distrito Capital Colombia"
+},
+{
+    "_id": 3, 
+    "nombre_proveedor": "RAMEDICAS - OPERANDO",
+    "Nit": 124583,
+    "Direccion": "Cr 33 W 71-95 Bdg 41",
+    "Persona_encargada": "Camila Villa",
+    "Numero_contacto": 786542,
+    "correo": "ramedicas@gmail.com",
+    "ciudad": "Bucaramanga, Santander Colombia"
+
+},
+{
+    "_id": 4, 
+    "nombre_proveedor": "ORDENES & SUMINISTROS S.A",
+    "Nit": 124583,
+    "Direccion": "Cr 13 A 78-88 Brr. El Retiro",
+    "Persona_encargada": "Natalia Rendon",
+    "Numero_contacto": 876564,
+    "correo":"ordenes@gmail.com",
+    "ciudad": "Bogotá D.C., Distrito Capital Colombia"
+
+},
+{
+    "_id": 5, 
+    "nombre_proveedor": "O.C LA ECONOMIA",
+    "Nit": 89765,
+    "Direccion": "Cl 56 3-02",
+    "Persona_encargada": "Felipe Rojas",
+    "Numero_contacto": 786542,
+    "correo":"economia@gmail.com",
+    "ciudad": "Tunja, Boyacá Colombia"
+
+},
+{
+    "_id": 6, 
+    "nombre_proveedor": "Medical Kit Ltda",
+    "Nit": 124542,
+    "Direccion": "Cr 7 180 - 75 Mod 1 Bga 3",
+    "Persona_encargada": "Esteban Diaz",
+    "Numero_contacto": 3452618,
+    "correo":"medical@gmail.com",
+    "ciudad":"Bogotá D.C., Distrito Capital Colombia"
+
+},
+{
+    "_id": 7, 
+    "nombre_proveedor": "Laboratorios Probiol S.A.",
+    "Nit": 8765221,
+    "Direccion": " Cr 8 187A - 53 ",
+    "Persona_encargada": "Carlos Montoya",
+    "Numero_contacto": 7462342,
+    "correo": "probiol@gmial.com",
+    "ciudad": "Bogotá D.C., Distrito Capital Colombia"
+
+}]

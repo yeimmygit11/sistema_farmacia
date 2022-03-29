@@ -1,0 +1,34 @@
+/* AREA*/
+#area {
+  color: #fff;
+}
+#area a {
+  color: #97c8eb;
+  text-decoration: none;
+}
+#area a:hover {
+  text-decoration: underline;
+}
+#area .poster {
+  width: 500px;
+  max-width: 100%;
+  margin-right: 20px;
+}
+#area .calificacion .fas {
+  font-size: 20px;
+}
+#area .label {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 991px) {
+  #area .wrapper {
+    flex-direction: column;
+  }
+  #area .poster {
+    margin: auto;
+  }
+  #area .info {
+    padding: 0 10px;
+  }
+}

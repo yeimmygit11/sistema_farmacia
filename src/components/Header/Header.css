@@ -1,0 +1,92 @@
+header {
+  /*background-color: #ACAAAD; */
+  
+  position: relative;
+}
+header .container {
+  padding: 15px 0;
+  background-color: #ACAAAD;
+  position: relative;
+  z-index: 1;
+}
+
+header .container2 {
+  padding: 15px 0;
+  background-color: #ACAAAD;
+  position: relative;
+  z-index: 1;
+}
+
+/* Logo */
+.logo {
+  font-family: "Cinzel", serif;
+  font-size: 32px;
+  padding: 5px 10px;
+  padding-right: 0px ;
+  font-weight: bold;
+  color: #1105c5;
+  margin-left: 10px;
+  white-space: nowrap;
+}
+.logo:hover{
+  color: #1105c5;;
+}
+.logo2 {
+  font-family: "Cinzel", serif;
+  font-size: 26px;
+  padding: 5px 10px;
+  padding-left: 0px;
+  font-weight: bold;
+  color: #03ad28;
+  white-space: nowrap;
+  
+}
+.logo2:hover{
+  color: #03ad28;
+}
+
+
+/* Menú responsive */
+.btn-menu-responsive {
+  display: none;
+  margin-right: 10px;
+  font-size: 20px;
+}
+.menu-responsive {
+  display: none;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  transition: all 0.5s ease;
+}
+.menu-responsive.open {
+  bottom: -300px; 
+}
+.menu-responsive ul li {
+  border-top: 1px solid white;
+}
+.menu-responsive ul li a {
+  display: block;
+  background-color: #ACAAAD;
+  border-radius: 0;
+  padding: 15px;
+}
+
+.btn-login {
+  margin: 0 10px;
+  font-size: 18px;
+}
+
+
+/* Menú mobile */
+@media screen and (max-width: 768px) {
+  header {
+    padding-bottom: 0;
+  }
+  .btn-menu-responsive {
+    display: block;
+  }
+  .menu-responsive {
+    display: block;
+  }
+}

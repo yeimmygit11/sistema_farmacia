@@ -1,0 +1,36 @@
+#areas {
+  margin:auto;
+  margin-top: 70px;
+}
+
+
+.grid-areas {
+  display: grid;
+  margin:auto;
+  max-width: 80%;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 35% 35%;
+  gap: 20px;  
+}
+
+@media screen and (max-width: 992px) {
+  .grid-areas
+ {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .grid-areas
+ {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .grid-areas
+  {
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 10% 10% 10% 10% 10% 10%;
+  }
+}

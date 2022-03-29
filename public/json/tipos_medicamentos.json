@@ -1,0 +1,20 @@
+[{
+    "_id": 1,
+    "Tipo": "Analgesico"
+},
+{
+    "_id": 2,
+    "Tipo": "Antinflamatorio"
+},
+{
+    "_id": 3,
+    "Tipo": "Antibiotico"
+},
+{
+    "_id": 4,
+    "Tipo": "Antialergico"
+},
+{
+    "_id": 5,
+    "Tipo": "Antidepresivo"
+}]

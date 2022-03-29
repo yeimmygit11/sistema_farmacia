@@ -1,0 +1,100 @@
+[{
+    "_id": 1,
+    "Fecha": "Febrero",
+    "Medicamento":
+    {
+        "$ref": "Medicamentos",
+        "$id": 1
+    },
+    "Stock":100
+},
+{
+    "_id": 2,
+    "Fecha": "Febrero",
+    "Medicamento":
+    {
+        "$ref": "Medicamentos",
+        "$id": 2
+    },
+    "Stock":50
+},
+{
+    "_id": 3,
+    "Fecha": "Febrero",
+    "Medicamento":
+    {
+        "$ref": "Medicamentos",
+        "$id": 3
+    },
+    "Stock":20
+},
+{
+    "_id": 4,
+    "Fecha": "Febrero",
+    "Medicamento":
+    {
+        "$ref": "Medicamentos",
+        "$id": 4
+    },
+    "Stock":78
+},
+{
+    "_id": 5,
+    "Fecha": "Febrero",
+    "Medicamento":
+    {
+        "$ref": "Medicamentos",
+        "$id": 5
+    },
+    "Stock":30
+},
+{
+    "_id": 6,
+    "Fecha": "Febrero",
+    "Medicamento":
+    {
+        "$ref": "Medicamentos",
+        "$id": 6
+    },
+    "Stock":90
+},
+{
+    "_id": 7,
+    "Fecha": "Febrero",
+    "Medicamento":
+    {
+        "$ref": "Medicamentos",
+        "$id": 7
+    },
+    "Stock":45
+},
+{
+    "_id": 8,
+    "Fecha": "Febrero",
+    "Medicamento":
+    {
+        "$ref": "Medicamentos",
+        "$id": 8
+    },
+    "Stock":28
+},
+{
+    "_id": 9,
+    "Fecha": "Febrero",
+    "Medicamento":
+    {
+        "$ref": "Medicamentos",
+        "$id": 9
+    },
+    "Stock":100
+},
+{
+    "_id": 10,
+    "Fecha": "Febrero",
+    "Medicamento":
+    {
+        "$ref": "Medicamentos",
+        "$id": 10
+    },
+    "Stock":10
+}]

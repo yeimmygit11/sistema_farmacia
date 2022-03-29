@@ -1,0 +1,22 @@
+.area {
+  max-width: 100%;
+  background-color: white;
+  flex-shrink: 1; 
+}
+.area img {
+  width: 100%;
+  height: 100%;
+}
+
+.area .info {
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+}
+
+
+
+
+
+
+

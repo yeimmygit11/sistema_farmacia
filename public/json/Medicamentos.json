@@ -1,0 +1,197 @@
+[{
+    "_id": 1,
+    "medicamento": "Acetaminofen",
+    "presentacion": "Tabletas",
+    "dosificacion": "80mg",
+    "fecha_vencimiento": "2023-10-01",
+    "tipo_medicamento":1,
+    "proveedores":
+    [
+        {
+            "$ref": "Proveedores",
+            "$id": 1
+        },
+        {
+            "$ref": "Proveedores",
+            "$id":  2
+        }
+    ]
+   
+},
+{
+    "_id": 2,
+    "medicamento": "Aspirina",
+    "presentacion": "Tabletas",
+    "dosificacion": "500mg",
+    "fecha_vencimiento": "2024-12-24",
+    "tipo_medicamento":1,
+    "proveedores":
+    [
+        {
+            "$ref": "Proveedores",
+            "$id": 5
+        },
+        {
+            "$ref": "Proveedores",
+            "$id":  7
+        }
+    ]
+},
+{
+    "_id": 3,
+    "medicamento": "Ibuprofeno",
+    "presentacion": "Liquido oral",
+    "dosificacion": "5mL",
+    "fecha_vencimiento": "2025-10-11",
+    "tipo_medicamento":2,
+    "proveedores":
+    [
+        {
+            "$ref": "Proveedores",
+            "$id": 6
+        },
+        {
+            "$ref": "Proveedores",
+            "$id": 4
+        }
+    ]
+},
+{
+    "_id": 4,
+    "medicamento": "Paracetamol",
+    "presentacion": "Liquido oral",
+    "dosificacion": "5mL",
+    "fecha_vencimiento": "2025-08-14",
+    "tipo_medicamento":1,
+    "proveedores":
+    [
+        {
+            "$ref": "Proveedores",
+            "$id": 2
+        },
+        {
+            "$ref": "Proveedores",
+            "$id": 3
+        }
+    ]
+},
+{
+    "_id": 5,
+    "medicamento": "Amoxicilina",
+    "presentacion": "Liquido oral",
+    "dosificacion": "5mL",
+    "fecha_vencimiento": "2023-10-11",
+    "tipo_medicamento":3,
+    "proveedores":
+    [
+        {
+            "$ref": "Proveedores",
+            "$id": 1
+        },
+        {
+            "$ref": "Proveedores",
+            "$id":  7
+        }
+    ]
+    
+},
+{
+    "_id": 6,
+    "medicamento": "Azitromicina",
+    "presentacion": "Tabletas",
+    "dosificacion": "500mg",
+    "fecha_vencimiento": "2024-10-10",
+    "tipo_medicamento":3,
+    "proveedores":
+    [
+        {
+            "$ref": "Proveedores",
+            "$id": 5
+        },
+        {
+            "$ref": "Proveedores",
+            "$id": 3
+        }
+    ]
+
+},
+
+{
+    "_id": 7,
+    "medicamento": "Ampicilina",
+    "presentacion": "Capsula",
+    "dosificacion": "500mg",
+    "fecha_vencimiento": "2023-08-09",
+    "tipo_medicamento":3,
+    "proveedores":
+    [
+        {
+            "$ref": "Proveedores",
+            "$id": 1
+        },
+        {
+            "$ref": "Proveedores",
+            "$id":  5
+        }
+    ]
+},
+{
+    "_id": 8,
+    "medicamento": "Desloratadina",
+    "presentacion": "Tabletas",
+    "dosificacion": "5mg",
+    "fecha_vencimiento": "2023-10-03",
+    "tipo_medicamento":4,
+    "proveedores":
+    [
+        {
+            "$ref": "Proveedores",
+            "$id":2
+        },
+        {
+            "$ref": "Proveedores",
+            "$id":6
+        }
+    ]
+},
+
+{
+    "_id": 9,
+    "medicamento": "Loratadina",
+    "presentacion": "Tabletas",
+    "dosificacion": "10mg",
+    "fecha_vencimiento": "2023-10-09",
+    "tipo_medicamento":4,
+    "proveedores":
+    [
+        {
+            "$ref": "Proveedores",
+            "$id": 5
+        },
+        {
+            "$ref": "Proveedores",
+            "$id": 6
+        }
+    ]
+},
+
+{
+    "_id": 10,
+    "medicamento": "Fluoxetina",
+    "presentacion": "Capsulas",
+    "dosificacion": "20mg",
+    "fecha_vencimiento": "2022-07-02",
+    "tipo_medicamento":5,
+    "proveedores":
+    [
+        {
+            "$ref": "Proveedores",
+            "$id": 2
+        },
+        {
+            "$ref": "Proveedores",
+            "$id": 7
+        }
+    ]
+}
+]

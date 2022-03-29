@@ -1,0 +1,212 @@
+[{
+    "_id": 1,
+    "Mes": "Enero",
+    "Cantidad": 2,
+    "Comprador":
+        {
+            "$ref": "Comprador",
+            "$id": 43614053
+        },
+    "Personal":
+        {
+            "$ref": "Personal",
+            "$id": 9823451
+        },
+    "Medicamento":
+        {
+        "$ref": "Medicamentos",
+        "$id": 8
+        }
+   
+},
+{
+    "_id": 2,
+    "Mes": "Febrero",
+    "Cantidad": 1,
+    "Comprador":
+        {
+            "$ref": "Comprador",
+            "$id": 4568923
+        },
+    "Personal":
+        {
+            "$ref": "Personal",
+            "$id": 33112456
+        },
+    "Medicamento":
+        {
+        "$ref": "Medicamentos",
+        "$id": 2
+        }
+   
+},
+{
+    "_id": 3,
+    "Mes": "Enero",
+    "Cantidad": 3,
+    "Comprador":
+        {
+            "$ref": "Comprador",
+            "$id": 12336784
+        },
+    "Personal":
+        {
+            "$ref": "Personal",
+            "$id": 33112456
+        },
+    "Medicamento":
+        {
+        "$ref": "Medicamentos",
+        "$id": 2
+        }
+   
+},
+{
+    "_id": 4,
+    "Mes": "Diciembre",
+    "Cantidad": 1,
+    "Comprador":
+        {
+            "$ref": "Comprador",
+            "$id": 10178234
+        },
+    "Personal":
+        {
+            "$ref": "Personal",
+            "$id": 9823451
+        },
+    "Medicamento":
+        {
+        "$ref": "Medicamentos",
+        "$id": 7
+        }
+   
+},
+{
+    "_id": 5,
+    "Mes": "Noviembre",
+    "Cantidad": 5,
+    "Comprador":
+        {
+            "$ref": "Comprador",
+            "$id": 6547354
+        },
+    "Personal":
+        {
+            "$ref": "Personal",
+            "$id": 33112456
+        },
+    "Medicamento":
+        {
+        "$ref": "Medicamentos",
+        "$id": 3
+        }
+   
+},
+{
+    "_id": 6,
+    "Mes": "Noviembre",
+    "Cantidad": 5,
+    "Comprador":
+        {
+            "$ref": "Comprador",
+            "$id": 6547354
+        },
+    "Personal":
+        {
+            "$ref": "Personal",
+            "$id": 33112456
+        },
+    "Medicamento":
+        {
+        "$ref": "Medicamentos",
+        "$id": 10
+        }
+   
+},
+{
+    "_id": 7,
+    "Mes": "Julio",
+    "Cantidad": 1,
+    "Comprador":
+        {
+            "$ref": "Comprador",
+            "$id": 24987656
+        },
+    "Personal":
+        {
+            "$ref": "Personal",
+            "$id": 76843561
+        },
+    "Medicamento":
+        {
+        "$ref": "Medicamentos",
+        "$id": 10
+        }
+   
+},
+{
+    "_id": 8,
+    "Mes": "Junio",
+    "Cantidad": 1,
+    "Comprador":
+        {
+            "$ref": "Comprador",
+            "$id": 24987656
+        },
+    "Personal":
+        {
+            "$ref": "Personal",
+            "$id": 76843561
+        },
+    "Medicamento":
+        {
+        "$ref": "Medicamentos",
+        "$id": 5
+        }
+   
+},
+{
+    "_id": 9,
+    "Mes": "Junio",
+    "Cantidad": 3,
+    "Comprador":
+        {
+            "$ref": "Comprador",
+            "$id": 24987656
+        },
+    "Personal":
+        {
+            "$ref": "Personal",
+            "$id": 76843561
+        },
+    "Medicamento":
+        {
+        "$ref": "Medicamentos",
+        "$id": 2
+        }
+   
+},
+{
+    "_id": 10,
+    "Mes": "Octubre",
+    "Cantidad": 7,
+    "Comprador":
+        {
+            "$ref": "Comprador",
+            "$id": 2478541
+        },
+    "Personal":
+        {
+            "$ref": "Personal",
+            "$id": 33112456
+        },
+    "Medicamento":
+        {
+        "$ref": "Medicamentos",
+        "$id":1
+        }
+   
+}
+
+]
